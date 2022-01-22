@@ -28,7 +28,7 @@ print(d2) #same as printing d1 as changing one of them changes both
 print(d3) #however changing doesn't effect variable where the data is copied
 
 # Adding my girl to the dictionary
-d2.update({"Aarati Giri":"Chatpat"})
+d2.update({"mygirl":"Chatpat"})
 print(d1) # d1=d2
 
 #printing keys
