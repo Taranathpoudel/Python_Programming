@@ -37,7 +37,7 @@ print(d2.keys())
 # Printing items
 print(d2.items())
 
-d2.update({"Pabita":"likes to sex with me"})
+d2.update({"Pabita":"likes to talk with me"})
 print(d1)
 
 '''Removes last inserted key value from list'''
